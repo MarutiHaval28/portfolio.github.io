@@ -59,7 +59,7 @@ FUNCTIONALITIES 1.Vehicle Management *Dealers can add, edit, or delete vehicle l
 <dt>Course Name</dt>
 <dd>Design and Analysis Of Algorithm</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>Course Code -</dd>
 <dt>Name</dt>
 <dd>Maruti Haval</dd>
 <dt>SRN</dt>
